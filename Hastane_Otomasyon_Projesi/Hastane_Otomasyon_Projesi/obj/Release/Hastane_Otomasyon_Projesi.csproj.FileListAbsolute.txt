@@ -1,0 +1,2 @@
+C:\dene\Hastane_Otomasyon_Projesi\Hastane_Otomasyon_Projesi\obj\Release\Hastane_Otomasyon_Projesi.csproj.AssemblyReference.cache
+C:\dene\Hastane_Otomasyon_Projesi\Hastane_Otomasyon_Projesi\obj\Release\Hastane_Otomasyon_Projesi.csproj.SuggestedBindingRedirects.cache
